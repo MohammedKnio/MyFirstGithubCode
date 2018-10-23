@@ -1,8 +1,4 @@
-"""
-AubNet: mak109
-ID: 201804131
-Name: Mohamad Knio
-"""
+
 import sys
 
 p= int(sys.argv[1])
